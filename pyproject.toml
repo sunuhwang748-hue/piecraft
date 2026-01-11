@@ -1,0 +1,10 @@
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "piecraft"
+version = "0.2.0"
+description = "Minecraft-style pie chart generator"
+dependencies = ["pillow"]
