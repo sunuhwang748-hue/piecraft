@@ -59,4 +59,5 @@ I'm still learning, but I welcome any ideas or contributions!
 
 Thanks to GPT for helping me with the code. 
 If you like this project, please give it a star!
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sunuhwang748-hue/piecraft&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sunuhwang748-hue/piecraft&v=1" />
