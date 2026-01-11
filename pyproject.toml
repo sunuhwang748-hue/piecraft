@@ -1,10 +1,18 @@
-
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "piecraft"
-version = "0.2.0"
-description = "Minecraft-style pie chart generator"
-dependencies = ["pillow"]
+version = "0.3.0"
+description = "Minecraft-style pixelated pie chart generator"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = ["Pillow>=9.0.0"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Operating System :: OS Independent",
+]
