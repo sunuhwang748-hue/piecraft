@@ -1,5 +1,10 @@
 # piecraft ✨
 
+[![PyPI version](https://img.shields.io/pypi/v/piecraft.svg)](https://pypi.org/project/piecraft/)
+[![Downloads](https://static.pepy.tech/badge/piecraft)](https://pepy.tech/project/piecraft)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/sunuhwang748-hue/piecraft.svg?style=social)](https://github.com/sunuhwang748-hue/piecraft/stargazers)
+
 A Python library that **creates Minecraft-style pie charts.**
 
 ---
