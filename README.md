@@ -59,3 +59,5 @@ I'm still learning, but I welcome any ideas or contributions!
 
 Thanks to GPT for helping me with the code. 
 If you like this project, please give it a star!
+
+![방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunuhwang748-hue%2Fpiecraft&title=방문자수&color=green)
