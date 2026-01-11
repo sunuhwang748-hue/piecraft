@@ -60,4 +60,4 @@ I'm still learning, but I welcome any ideas or contributions!
 Thanks to GPT for helping me with the code. 
 If you like this project, please give it a star!
 
-![방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sunuhwang748-hue/piecraft)
+[![방문자 통계 확인하기](https://img.shields.io/badge/Visitors-Click_to_View-green)](https://github.com/sunuhwang748-hue/piecraft/graphs/traffic)
