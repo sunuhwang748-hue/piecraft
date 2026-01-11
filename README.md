@@ -16,7 +16,7 @@ Created by an 11-year-old developer! I love Minecraft and Python. I designed the
 **Install `piecraft`:**
 
 ```bash
-pip install piecraft
+pip install piecraft==0.4.0
 ```
 
 ---
