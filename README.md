@@ -1,5 +1,7 @@
 # piecraft
 
+![Example Chart](chart.png)
+
 Minecraft‑style simple pie chart generator.
 
 ```python
