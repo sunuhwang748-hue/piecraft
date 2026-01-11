@@ -60,4 +60,4 @@ I'm still learning, but I welcome any ideas or contributions!
 Thanks to GPT for helping me with the code. 
 If you like this project, please give it a star!
 
-![방문자수](https://img.shields.io/badge/Visitors-Checking-green)
+![방문자수](https://img.shields.io/badge/dynamic/json?label=방문자수&query=$.value&url=https://api.countapi.xyz/hit/sunuhwang748-piecraft/visits&color=green)
