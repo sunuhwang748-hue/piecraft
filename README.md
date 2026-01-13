@@ -65,4 +65,4 @@ I'm still learning, but I welcome any ideas or contributions!
 Thanks to GPT for helping me with the code. 
 If you like this project, please give it a star!
 
-[![Star this project](https://img.shields.io/badge/DOWNLOAD-CLICK%20HERE-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunuhwang748-hue/piecraft/stargazers)
+[![Click to Download](https://img.shields.io/badge/DOWNLOAD-START-brightgreen?style=for-the-badge&logo=minecraft)](https://github.com/sunuhwang748-hue/piecraft/stargazers)
